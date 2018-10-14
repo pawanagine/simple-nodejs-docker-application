@@ -1,3 +1,10 @@
+## TODO
+
+1. learn more about docker.
+2. How to set docker images, what are images.
+3. Whats so good about docker.
+4. How docker toolbox differ from docker.
+
 ## Mandatory Information
 
 Since I am using docker toolbox I wont have access to localhost or my IP address. I have to use the ip
